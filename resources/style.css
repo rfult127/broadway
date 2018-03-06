@@ -2,3 +2,25 @@ body {
   font-family: helvetica;
   text-align: center;
 }
+
+.banner {
+  background: url(./images/the-flatiron-building.png);
+  background-color: #cccccc;
+  background-position: right;
+  color: white;
+  padding-top: -40px;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+
+.banner p {
+  font-size: 18px;
+  color: white;
+}
+
+a {
+  color: white;
+}
